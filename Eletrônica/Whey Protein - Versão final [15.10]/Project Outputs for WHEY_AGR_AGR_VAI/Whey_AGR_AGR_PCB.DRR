@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Whey_AGR_AGR_PCB.PcbDoc   10/10/2018  12:20:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Whey_AGR_AGR_PCB.TXT
+EIA File   : Whey_AGR_AGR_PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             16        PTH        133.98mm (5.27inch)
+T2      0.71mm (28mil)                                            Round             36        PTH        297.93mm (11.73inch)
+T3      0.8mm (31mil)                                             Round             5         PTH        67.39mm (2.65inch)
+T4      0.9mm (35mil)                                             Round             11        PTH        35.44mm (1.40inch)
+T5      3.5mm (138mil)                                            Round             6         PTH        63.66mm (2.51inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              74
+
+Total Processing Time (hh:mm:ss) : 00:00:00

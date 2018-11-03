@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WHEY_AGR_AGR_VAI.PrjPcb]
+   Generated File[Whey_AGR_AGR_PCB.TXT]
+   Generated File[Whey_AGR_AGR_PCB.DRL]
+   Generated File[Whey_AGR_AGR_PCB.LDP]
+   Generated File[Whey_AGR_AGR_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:20:31 On 10/10/2018
