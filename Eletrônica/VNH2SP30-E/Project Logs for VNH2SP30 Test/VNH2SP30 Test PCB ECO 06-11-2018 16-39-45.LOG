@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=CS New Net Name=CS_ARDUINO
+Change Net Name : Old Net Name=EN New Net Name=EN_ARDUINO
+Change Net Name : Old Net Name=IN_A New Net Name=IN_A_ARDUINO
+Change Net Name : Old Net Name=IN_B New Net Name=IN_B_ARDUINO
+Change Net Name : Old Net Name=NetMotor Driver_P$5 New Net Name=IN_A
+Change Net Name : Old Net Name=NetMotor Driver_P$6 New Net Name=EN
+Change Net Name : Old Net Name=NetMotor Driver_P$8 New Net Name=PWM
+Change Net Name : Old Net Name=NetMotor Driver_P$9 New Net Name=CS
+Change Net Name : Old Net Name=NetMotor Driver_P$11 New Net Name=IN_B
+Change Net Name : Old Net Name=PWM New Net Name=PWM_ARDUINO
+Added Room: Name=VNH2SP30 Test

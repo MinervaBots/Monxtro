@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetMotor Driver_P$9 Pin=Arduino Connections-1
+Change Net Name : Old Net Name=NetMotor Driver_P$9 New Net Name=CS
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R5-2
+Added Net: Name=NetC3_2
+Added Room: Name=VNH2SP30 Test
