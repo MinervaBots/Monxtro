@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CS_ARDUINO Pin=Arduino Connections-1
+Removed Pin From Net: NetName=EN_ARDUINO Pin=Arduino Connections-2
+Removed Pin From Net: NetName=IN_B_ARDUINO Pin=Arduino Connections-3
+Removed Pin From Net: NetName=IN_A_ARDUINO Pin=Arduino Connections-4
+Removed Pin From Net: NetName=PWM_ARDUINO Pin=Arduino Connections-5
+Added Pin To Net: NetName=IN_B_ARDUINO Pin=Arduino Connections-1
+Added Pin To Net: NetName=IN_A_ARDUINO Pin=Arduino Connections-2
+Added Pin To Net: NetName=PWM_ARDUINO Pin=Arduino Connections-3
+Added Pin To Net: NetName=CS_ARDUINO Pin=Arduino Connections-4
+Added Pin To Net: NetName=EN_ARDUINO Pin=Arduino Connections-5
+Added Member To Class: ClassName=VNH2SP30 Test Member=Component C1 Cap2
+Added Member To Class: ClassName=VNH2SP30 Test Member=Component C2 Cap2
+Added Member To Class: ClassName=VNH2SP30 Test Member=Component C3 Cap Semi
+Added Member To Class: ClassName=VNH2SP30 Test Member=Component R1 Res3
+Added Room: Name=VNH2SP30 Test
